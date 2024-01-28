@@ -1,9 +1,9 @@
 /*
  * File: 0-malloc_checked.c
- * Auth: Brennan D Baraban
+ * Auth: Robert Nyandoro.
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
